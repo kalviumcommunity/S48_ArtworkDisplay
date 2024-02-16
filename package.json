@@ -1,0 +1,11 @@
+{
+  "name": "s48_artworkdisplay",
+  "version": "1.0.0",
+  "description": "-----\r A dynamic website showcasing the top 50 Indian artworks, celebrating the rich heritage and diversity of Indian art. The website provides an detailed information about each artwork, its historical context, and the artists behind them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
