@@ -7,7 +7,7 @@ A dynamic website showcasing the top 50 Indian artworks, celebrating the rich he
     - Users can access detailed information for each art piece.
     - Users can dive into the complete history of each artwork for a comprehensive understanding.
 
-## [Deployed link !](https://artworkdisplay.onrender.com/ping )
+## [Deployed link !](https://artworkdisplay.onrender.com/ping)
 
 ## Contibute to the project
     To contribute to a GitHub project, follow these general steps:
