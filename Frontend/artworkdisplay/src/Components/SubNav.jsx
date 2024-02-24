@@ -1,12 +1,11 @@
+import './SubNav.css'
 
 export default function Subnav(){
     return (
         <>
-        <nav>
-            <div className="subanv">
-                <input type="text" placeholder="search.." />
-                <button>Search</button>
-            </div>
+        <nav className='subnav'>
+            <input id='searchBar' type="text" placeholder="search.." />
+            <button id='searchButton'>Search</button>
         </nav>
         </>
     )}

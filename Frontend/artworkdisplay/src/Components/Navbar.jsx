@@ -1,6 +1,6 @@
 import './Navbar.css';
 
-export default function Landingpage(){
+export default function Navbar(){
     return (
         <>
         <nav id='navbar'>
