@@ -1,11 +1,12 @@
 .subnav{
-    display: flex;
-    justify-content: center;
     background-color: rgb(226, 169, 183);
+    height: 3.75em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #searchBar, #searchButton{
-    margin: 10px 0 10px 0;
     border: none;
     height: 2em;
 }
