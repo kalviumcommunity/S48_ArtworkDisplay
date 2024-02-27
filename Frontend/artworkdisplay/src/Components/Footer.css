@@ -19,19 +19,19 @@
 #details{
     padding: 1em;
 }
-.contact li, .contact a{
+#contact li, #contact a{
     list-style-type: none;
 }
-.profile,.contact a{
+.profile,#contact a{
     color: #367c53;
     font-weight: 700;
 }
 
-.contact{
+#contact{
     position: absolute;
     right: 0;
 }
 
-.contact li{
+#contact li{
     padding: 2em 2em 0 0;
 }
