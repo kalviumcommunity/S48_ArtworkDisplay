@@ -1,0 +1,16 @@
+.subnav{
+    background-color: rgb(226, 169, 183);
+    height: 3.75em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#searchBar, #searchButton{
+    border: none;
+    height: 2em;
+}
+
+#searchBar::placeholder{
+    padding-left: 10px;
+}

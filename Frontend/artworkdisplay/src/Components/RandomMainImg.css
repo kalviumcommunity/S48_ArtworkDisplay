@@ -1,0 +1,49 @@
+#mainCtnr, .maindivtab{
+    display: flex;
+    justify-content: center;
+    padding: 2em;
+    color: #7BBB96;
+}
+
+.maindivtab{
+    border: 1px solid #7BBB96;
+}
+
+.randomIImage{
+    padding-right: 2em;
+}
+
+#knowMore{
+    display: flex;
+    justify-content: center;
+}
+
+#knowMorebtn{
+    margin: 2em;
+    margin-bottom: 3em;
+}
+
+#userInteractionButtons>button{
+    margin-right: 1em;
+    padding: 0.4em;
+}
+
+#knowMorebtn{
+    font-size: 1em;
+    height: 2em;
+    width: 10em;
+}
+
+#knowMorebtn, #userInteractionButtons>button{
+    border: none;
+    background-color: #7BBB96;
+    color: white;
+    border: 2px solid aliceblue;
+}
+
+#knowMorebtn:hover, #userInteractionButtons>button:hover{
+    color: #7BBB96;
+    background-color: aliceblue;
+    cursor: pointer;
+    border: 2px solid #7BBB96;
+}
