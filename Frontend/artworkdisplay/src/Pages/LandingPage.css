@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: center;
+    height: 30em;
+}
+#textContainer{
+    text-align: center;
+    color: #4b8864;
+    width: 60em;
+    margin-top: 7em;
+    padding: 0em 2em 0em 2em;
+}
+#textContainer>h1{
+    font-size: 3.5em;
+}
+
+#textContainer>p{
+    padding-top: 0.5em;
+    font-size: 1.2em;
+}

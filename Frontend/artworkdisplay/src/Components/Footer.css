@@ -1,0 +1,37 @@
+.footerContainer{
+    background-color: #E3A9B9;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 15em;
+    display: flex;
+}
+.profile{
+    display: flex;
+    margin: 1em;
+}
+
+#image>img{
+    width: 10em;
+    border-radius: 100%;
+    border: 3px solid #7BBB96;
+}
+#details{
+    padding: 1em;
+}
+.contact li, .contact a{
+    list-style-type: none;
+}
+.profile,.contact a{
+    color: #367c53;
+    font-weight: 700;
+}
+
+.contact{
+    position: absolute;
+    right: 0;
+}
+
+.contact li{
+    padding: 2em 2em 0 0;
+}
