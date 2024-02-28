@@ -14,12 +14,11 @@ export default function Footer(){
                     Passionate about painting, drwing and so..<br/> <br/></p>
                 </div>
             </div>
-            <div className="contact">
+            <div id="contact">
                 <ul>
-                    <li><a href="">Github</a></li>
+                    <li><a href="https://github.com/kutty023">Github</a></li>
                     <li><a href="">Linkedin</a></li>
                     <li><a href="">Instagram</a></li>
-                    <li><a href="">Email</a></li>
                 </ul>
             </div>
         </div>

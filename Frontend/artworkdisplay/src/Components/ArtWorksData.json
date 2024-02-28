@@ -1,0 +1,304 @@
+[
+    {
+        "id" : 1,
+        "artist": "Chola Dynasty",
+        "artwork": "Nataraja Bronze",
+        "description": "An iconic bronze sculpture depicting Shiva as the Lord of the Dance, representing the cosmic cycle of creation and destruction."
+    },
+    {
+        "id" : 2,
+        "artist": "Unknown Artists",
+        "artwork": "Ajanta Cave Paintings",
+        "description": "Ancient Buddhist cave paintings in Maharashtra, dating back to the 2nd century BCE to 5th century CE, renowned for their beauty and historical significance."
+    },
+    {
+        "id" : 3,
+        "artist": "Raja Ravi Varma",
+        "artwork": "The Maharashtrian Lady",
+        "description": "A realistic depiction of an elegant Maharashtrian lady by Raja Ravi Varma, one of India's most celebrated painters."
+    },
+    {
+        "id" : 4,
+        "artist": "Raja Ravi Varma",
+        "artwork": "Shakuntala",
+        "description": "Another masterpiece by Raja Ravi Varma, depicting the character Shakuntala from Hindu mythology, known for its intricate details and vibrant colors."
+    },
+    {
+        "id" : 5,
+        "artist": "Nandalal Bose",
+        "artwork": "Bharat Mata",
+        "description": "Nandalal Bose's portrayal of Bharat Mata (Mother India), a powerful symbol of the nation, evoking feelings of patriotism and unity."
+    },
+    {
+        "id" : 6,
+        "artist": "Amrita Sher-Gil",
+        "artwork": "Self-Portrait",
+        "description": "Amrita Sher-Gil's self-portrait, reflecting her unique identity and talent, capturing the essence of her life and work as one of India's most important artists of the 20th century."
+    },
+    {
+        "id" : 7,
+        "artist": "M.F. Husain",
+        "artwork": "Zameen Series",
+        "description": "A series of paintings by Maqbool Fida Husain, known as the Picasso of India, exploring themes of land, identity, and society with bold strokes and vibrant colors."
+    },
+    {
+        "id" : 8,
+        "artist": "Tyeb Mehta",
+        "artwork": "Untitled (Figure on Rickshaw)",
+        "description": "A powerful and iconic painting by Tyeb Mehta, depicting a figure on a rickshaw, symbolizing the struggles and contradictions of urban life in India."
+    },
+    {
+        "id" : 9,
+        "artist": "S.H. Raza",
+        "artwork": "Bindu",
+        "description": "S.H. Raza's Bindu series, characterized by geometric abstraction and vibrant colors, represents the concept of the bindu or the cosmic point of energy."
+    },
+    {
+        "id" : 10,
+        "artist": "F.N. Souza",
+        "artwork": "Birth",
+        "description": "Birth is a provocative and intense painting by F.N. Souza, known for its bold lines and raw expression, reflecting themes of human existence and suffering."
+    },
+    {
+        "id" : 11,
+        "artist": "Jamini Roy",
+        "artwork": "Mother and Child",
+        "description": "Jamini Roy's simplistic and folk-inspired painting of a mother and child captures the essence of maternal love and simplicity in rural Bengal."
+    },
+    {
+        "id" : 12,
+        "artist": "Rabindranath Tagore",
+        "artwork": "Self-Portrait",
+        "description": "Rabindranath Tagore's self-portrait is a rare and intimate glimpse into the mind of the Nobel laureate, showcasing his depth as a poet, philosopher, and artist."
+    },
+    {
+        "id": 13,
+        "artist": "Sakti Burman",
+        "artwork": "The Arrival",
+        "description": "Sakti Burman's 'The Arrival' captures a dream-like world where human figures and mythical creatures coexist, reflecting the artist's fascination with fantasy and imagination."
+    },
+    {
+        "id": 14,
+        "artist": "Anjolie Ela Menon",
+        "artwork": "Yatra",
+        "description": "Anjolie Ela Menon's 'Yatra' is a haunting portrayal of human migration and displacement, evoking emotions of loss, hope, and resilience."
+    },
+    {
+        "id": 15,
+        "artist": "K.G. Subramanyan",
+        "artwork": "Tree of Life",
+        "description": "K.G. Subramanyan's 'Tree of Life' is a vibrant and intricate depiction of the interconnectedness of nature and human existence, blending mythology and folk art traditions."
+    },
+    {
+        "id": 16,
+        "artist": "Arpita Singh",
+        "artwork": "Wish Dream",
+        "description": "Arpita Singh's 'Wish Dream' is a surreal composition that explores themes of memory, desire, and the passage of time, inviting viewers into a world of introspection and nostalgia."
+    },
+    {
+        "id": 17,
+        "artist": "Bhupen Khakhar",
+        "artwork": "You Can't Please All",
+        "description": "Bhupen Khakhar's 'You Can't Please All' is a thought-provoking commentary on societal norms and the complexities of human relationships, rendered with humor and sensitivity."
+    },
+    {
+        "id": 18,
+        "artist": "Ganesh Pyne",
+        "artwork": "The Family",
+        "description": "Ganesh Pyne's 'The Family' is a haunting and enigmatic portrayal of familial bonds and the mysteries of human existence, rendered in his signature style of poetic realism."
+    },
+    {
+        "id": 19,
+        "artist": "Manjit Bawa",
+        "artwork": "The Blue Lady",
+        "description": "Manjit Bawa's 'The Blue Lady' is a mesmerizing depiction of a mystical figure enveloped in vibrant hues, embodying the artist's spiritual vision and reverence for nature."
+    },
+    {
+        "id": 20,
+        "artist": "Jogen Chowdhury",
+        "artwork": "Mother and Child",
+        "description": "Jogen Chowdhury's 'Mother and Child' captures the tender bond between a mother and her child, rendered with emotive lines and a sense of intimacy."
+    },
+    {
+        "id": 21,
+        "artist": "A. Ramachandran",
+        "artwork": "Village Women",
+        "description": "A. Ramachandran's 'Village Women' portrays the resilience and grace of rural women, celebrating their contributions to Indian society and culture."
+    },
+    {
+        "id": 22,
+        "artist": "Anish Kapoor",
+        "artwork": "Shooting into the Corner",
+        "description": "Anish Kapoor's 'Shooting into the Corner' is a captivating exploration of space, materiality, and the sublime, inviting viewers to engage with the physicality of the artwork."
+    },
+    {
+        "id": 23,
+        "artist": "Atul Dodiya",
+        "artwork": "Stammer in the Shade",
+        "description": "Atul Dodiya's 'Stammer in the Shade' is a multi-layered composition that blurs the boundaries between reality and illusion, reflecting the artist's ongoing dialogue with history and culture."
+    },
+    {
+        "id": 24,
+        "artist": "Bose Krishnamachari",
+        "artwork": "Dying Wisdom",
+        "description": "Bose Krishnamachari's 'Dying Wisdom' is a poignant reflection on environmental degradation and the urgent need for conservation, compelling viewers to confront the consequences of human actions."
+    },
+    {
+        "id": 25,
+        "artist": "Nilima Sheikh",
+        "artwork": "Each Night Put Kashmir in Your Dreams",
+        "description": "Nilima Sheikh's 'Each Night Put Kashmir in Your Dreams' is a lyrical exploration of memory, loss, and longing, evoking the beauty and turmoil of the Kashmiri landscape."
+    },
+    {
+        "id": 26,
+        "artist": "Rameshwar Broota",
+        "artwork": "Thirst",
+        "description": "Rameshwar Broota's 'Thirst' is a stark and powerful portrayal of existential angst and the human condition, rendered with raw emotion and psychological depth."
+    },
+    {
+        "id": 27,
+        "artist": "Subodh Gupta",
+        "artwork": "Line of Control",
+        "description": "Subodh Gupta's 'Line of Control' is a provocative exploration of borders, identity, and conflict, confronting viewers with the complexities of geopolitical realities."
+    },
+    {
+        "id": 28,
+        "artist": "T. Vaikuntam",
+        "artwork": "Telangana Women",
+        "description": "T. Vaikuntam's 'Telangana Women' celebrates the strength and resilience of rural women in Telangana, capturing the vibrancy of their everyday lives and traditions."
+    },
+    {
+        "id": 29,
+        "artist": "N. S. Harsha",
+        "artwork": "Punarapi Jananam Punarapi Maranam",
+        "description": "N. S. Harsha's 'Punarapi Jananam Punarapi Maranam' is a contemplative exploration of cycles of life and rebirth, inviting viewers to reflect on the eternal rhythms of existence."
+    },
+    {
+        "id": 30,
+        "artist": "Manu Parekh",
+        "artwork": "Banaras Ghat",
+        "description": "Manu Parekh's 'Banaras Ghat' captures the spiritual essence and architectural splendor of Varanasi's ghats, inviting viewers into the timeless mystique of the sacred city."
+    },
+    {
+        "id": 31,
+        "artist": "Jatin Das",
+        "artwork": "The Wandering Apsara",
+        "description": "Jatin Das's 'The Wandering Apsara' captures the ethereal beauty and grace of celestial nymphs, embodying the timeless allure of Indian mythology."
+    },
+    {
+        "id": 32,
+        "artist": "Anupam Sud",
+        "artwork": "The Sorrowful City",
+        "description": "Anupam Sud's 'The Sorrowful City' is a poignant meditation on urban decay and human vulnerability, inviting viewers to confront the complexities of urban life."
+    },
+    {
+        "id": 33,
+        "artist": "Arpana Caur",
+        "artwork": "The Sikhs",
+        "description": "Arpana Caur's 'The Sikhs' is a powerful portrayal of Sikh history and identity, celebrating the resilience and spirit of a community marked by courage and sacrifice."
+    },
+    {
+        "id": 34,
+        "artist": "Jagdish Swaminathan",
+        "artwork": "Bird, Mountain, Tree",
+        "description": "Jagdish Swaminathan's 'Bird, Mountain, Tree' is a bold and vibrant exploration of nature's elemental forms, resonating with the artist's deep connection to the natural world."
+    },
+    {
+        "id": 35,
+        "artist": "G.R. Santosh",
+        "artwork": "Prakriti Purusha",
+        "description": "G.R. Santosh's 'Prakriti Purusha' is a mystical interpretation of cosmic duality, blending elements of tantra and metaphysics to evoke the primordial energies of creation."
+    },
+    {
+        "id": 36,
+        "artist": "Ram Kumar",
+        "artwork": "Cityscape",
+        "description": "Ram Kumar's 'Cityscape' is a haunting portrayal of urban alienation and existential angst, capturing the solitude and dissonance of modern city life."
+    },
+    {
+        "id": 37,
+        "artist": "Anju Dodiya",
+        "artwork": "The Face of Another",
+        "description": "Anju Dodiya's 'The Face of Another' is a surreal exploration of identity and selfhood, inviting viewers into a world of masks and mirrors, where truth and illusion converge."
+    },
+    {
+        "id": 38,
+        "artist": "K. Laxma Goud",
+        "artwork": "Untitled (Rural Life)",
+        "description": "K. Laxma Goud's 'Untitled (Rural Life)' celebrates the vibrancy and vitality of rural India, capturing the timeless rhythms of agrarian existence and community bonds."
+    },
+    {
+        "id": 39,
+        "artist": "B. Prabha",
+        "artwork": "The Fisherwoman",
+        "description": "B. Prabha's 'The Fisherwoman' is a tender portrayal of a woman at work, embodying the dignity and resilience of India's working-class women."
+    },
+    {
+        "id": 40,
+        "artist": "Manjit Bawa",
+        "artwork": "Mystic Series",
+        "description": "Manjit Bawa's 'Mystic Series' is a captivating exploration of spirituality and symbolism, drawing upon the artist's deep reverence for Indian mythology and folklore."
+    },
+    {
+        "id": 41,
+        "artist": "Madhvi Parekh",
+        "artwork": "Village Life",
+        "description": "Madhvi Parekh's 'Village Life' captures the simplicity and charm of rural existence, portraying scenes of everyday life with warmth and affection."
+    },
+    {
+        "id": 42,
+        "artist": "Anwar Chitrakar",
+        "artwork": "Patachitra",
+        "description": "Anwar Chitrakar's 'Patachitra' is a vibrant example of the traditional scroll painting style from West Bengal, narrating mythological stories and folk tales with intricate detail."
+    },
+    {
+        "id": 43,
+        "artist": "Laxman Pai",
+        "artwork": "Kathakali",
+        "description": "Laxman Pai's 'Kathakali' captures the dynamic energy and expressive movements of Kathakali dancers, highlighting the rich cultural heritage of Kerala."
+    },
+    {
+        "id": 44,
+        "artist": "N. S. Bendre",
+        "artwork": "Mother and Child",
+        "description": "N. S. Bendre's 'Mother and Child' is a timeless portrayal of maternal love and tenderness, reflecting the artist's deep emotional connection to familial relationships."
+    },
+    {
+        "id": 45,
+        "artist": "S. Elayaraja",
+        "artwork": "Cityscape at Night",
+        "description": "S. Elayaraja's 'Cityscape at Night' captures the bustling energy and luminous beauty of urban nightlife, evoking a sense of wonder and awe."
+    },
+    {
+        "id": 46,
+        "artist": "Thota Vaikuntam",
+        "artwork": "Bride",
+        "description": "Thota Vaikuntam's 'Bride' portrays the grace and elegance of a Telangana bride, adorned in traditional attire and jewelry, celebrating the cultural heritage of the region."
+    },
+    {
+        "id": 47,
+        "artist": "S. H. Raza",
+        "artwork": "La Terre",
+        "description": "S. H. Raza's 'La Terre' is a mesmerizing exploration of the cosmic elements, blending geometric forms and vibrant colors to evoke the essence of the earth."
+    },
+    {
+        "id": 48,
+        "artist": "K. M. Adimoolam",
+        "artwork": "Untitled (Abstract)",
+        "description": "K. M. Adimoolam's 'Untitled (Abstract)' is a dynamic and expressive composition that invites viewers into a world of shapes, colors, and emotions, transcending conventional boundaries of representation."
+    },
+    {
+        "id": 49,
+        "artist": "Lalu Prasad Shaw",
+        "artwork": "Couple",
+        "description": "Lalu Prasad Shaw's 'Couple' captures the intimacy and connection between two figures, rendered with simplicity and warmth, inviting viewers to reflect on the complexities of human relationships."
+    },
+    {
+        "id": 50,
+        "artist": "Gogi Saroj Pal",
+        "artwork": "Tribal Women",
+        "description": "Gogi Saroj Pal's 'Tribal Women' celebrates the strength and resilience of tribal communities in India, portraying women as symbols of courage, tradition, and empowerment."
+    }
+      
+]
+

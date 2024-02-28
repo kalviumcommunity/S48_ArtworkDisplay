@@ -1,4 +1,6 @@
 import './RandomMainImg.css'
+import { Link } from 'react-router-dom';
+// import ArtWorksPage from '../Pages/ArtWorksPage';
 
 export default function RandomMainImg(){
     return(
@@ -25,8 +27,11 @@ export default function RandomMainImg(){
                 </div>
             </div>
             <div id='knowMore'>
-                <button id='knowMorebtn'>Explore More!</button>
+                <Link to='/artworksdisplay'>
+                    <button id='knowMorebtn'>Explore More!</button>
+                </Link>
             </div>
         </>
+        
     )
 }
