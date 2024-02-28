@@ -3,9 +3,16 @@ import './ArtWorksPage.css';
 import Subnav from '../Components/SubNav';
 import Navbar from '../Components/Navbar';
 import Footer from '../Components/Footer';
+import { useEffect, useState } from 'react';
+import axios from 'axios';
 
-export default function ArtWorksPage(props){
-    const { artworks } = props;
+export default function ArtWorksPage(){
+    const [artworks, setArtworks] = useState([])
+    useEffect(()=>{
+      axios.get('http://localhost:3001/getArtworks')
+      .then(artworks => setArtworks(artworks.data))
+      .catch(err => console.log(err))
+    }, [])
     return(
         <>
         <Navbar />
