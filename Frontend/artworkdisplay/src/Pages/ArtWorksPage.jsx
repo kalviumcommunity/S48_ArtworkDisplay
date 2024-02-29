@@ -18,15 +18,17 @@ export default function ArtWorksPage(){
         <Navbar />
         <Subnav />
         <div>
-            {
-                artworks && artworks.map((artwork, id) => (
-                    <div className='contentDisplay' key={id}>
-                        <h2>Artist: {artwork.artist}</h2>
-                        <h2>Artwork: {artwork.artwork}</h2>
-                        <p>Description: {artwork.description}</p>
-                    </div>
-                ))
-            }
+            <div className="gridCondainer">
+                {
+                    artworks && artworks.map((artwork, id) => (
+                            <div className='contentDisplay' key={id}>
+                                <h2>Artist: {artwork.artist}</h2>
+                                <h2>Artwork: {artwork.artwork}</h2>
+                                <p>Description: {artwork.description}</p>
+                            </div>
+                    ))
+                }
+            </div>
         </div>
         <Footer />
         </>
