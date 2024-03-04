@@ -1,0 +1,37 @@
+.addContainer, .crudUserContainer{
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.tablecontent{
+    padding: 20px;
+    background-color: white;
+}
+
+
+table{
+    border: 2px solid white;
+}
+
+#addButton{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 100px;
+    height: 65px;
+    font-size: 25px;
+    background-color: rgb(83, 229, 83);
+    border: 2px solid green;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.actionButton{
+    cursor: pointer;
+    margin-right: 10px;
+    width: 40px;
+}
